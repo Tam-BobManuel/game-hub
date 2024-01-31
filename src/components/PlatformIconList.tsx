@@ -28,6 +28,7 @@ function PlatformIconList({ platforms }: Props) {
     ios: MdPhoneIphone,
     web: BsGlobe,
     android: FaAndroid,
+    nintendo: SiNintendo,
   };
   return (
     <>
